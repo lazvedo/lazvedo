@@ -1,4 +1,4 @@
-# Olá, sou L. Azevedo 👋
+# Olá, sou Lucas Azevedo 👋
 
 Estudante de ADS na Cesar School · Front-end developer
 
