@@ -1,6 +1,6 @@
 # Olá, sou Lucas Azevedo 👋
 
-Estudante de ADS na Cesar School · Front-end developer
+Estudante de ADS no Mediotec-Senac · Front-end developer
 
 Estou construindo minha carreira em tecnologia com foco em desenvolvimento front-end. Apaixonado por criar interfaces que resolvem problemas reais.
 
